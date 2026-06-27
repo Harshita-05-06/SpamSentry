@@ -8,7 +8,7 @@ Built using **Streamlit**, it provides real-time predictions with confidence sco
 
 ## 🚀 Live Demo
 
-https://harshita-05-06.github.io/SpamSentry/
+[https://harshita-05-06.github.io/SpamSentry/](https://harshita-05-06.github.io/SpamSentry/)
 
 ---
 
